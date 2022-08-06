@@ -1,16 +1,21 @@
-### Hi there 👋
+### 안녕하세요 🙌  
 
-<!--
-**sjunh812/sjunh812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+저는 안드로이드 개발자를 꿈꾸고 있는 서준형이라고 합니다.  
+현재는 개발자로 취업 준비 중에 있으며,   
+새로운 것에 도전하고 깊게 파고드는 자세로 공부에 임하고 있습니다.
+```
 
-Here are some ideas to get you started:
+### 🌳 Tech Stack 🌳
+##### Platforms & Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+
+##### Tools
+
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>    
+
+### 🐧 About Me 🐧
+<a href="https://sjunh812.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat&logo=Github&logoColor=white"/></a> <a href="sjunh812@gmail.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjunh812&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![sjunh812's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjunh812&shows_icons=true)     
