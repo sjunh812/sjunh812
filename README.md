@@ -18,4 +18,4 @@
 ## 🐧 About Me 🐧
 <a href="https://sjunh812.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:sjunh812@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjunh812&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![sjunh812's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjunh812&shows_icons=true)     
+![sjunh812's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjunh812&shows_icons=true&theme=gradient)     
