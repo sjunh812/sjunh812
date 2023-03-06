@@ -20,7 +20,7 @@
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjunh8123)](https://solved.ac/sjunh8123/)  
   <br>
-  ![sjunh812's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=sjunh812&show_icons=true&theme=tokyonight)     
+  ![sjunh812's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=sjunh812&show_icons=true&theme=ayu-mirage)     
   <br>
-  [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=sjunh812&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=sjunh812&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
