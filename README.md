@@ -2,7 +2,7 @@
 <a href="https://sjunh812.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white"/></a> 
 <a href="mailto:sjunh812@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <br>
-🤖 Hi there! I'm Junhyung Seo, an **Android developer**  
+🤖 Hi there! I'm JunHyung Seo, an **Android developer**  
 who values understanding the service first, then its structure, and finally the code.  
 <br>
 Professionally, I focus on **Jetpack Compose** migrations,  
