@@ -1,28 +1,15 @@
-<!-- <a href="https://sjunh812.notion.site/Seo-Jun-Hyung-29e84e288bed48928e8bb0e877dfe867?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> -->
-<!-- <a href="https://sjunh812.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white"/></a> 
-<a href="mailto:sjunh812@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<br>
-🤖 Hi there! I'm JunHyung Seo, an **Android developer**  
-who values understanding the service first, then its structure, and finally the code.  
-<br>
-Professionally, I focus on **Jetpack Compose** migrations,  
-and I’ve recently started taking an interest in **Kotlin Multiplatform (KMP)**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7F52FF,100:3DDC84&text=JunHyung%20Seo&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Android%20Developer&descSize=18&descAlignY=58&section=header" width="100%" alt="JunHyung Seo, Android Developer" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjunh8123)](https://solved.ac/sjunh8123/) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=560&height=32&lines=Android+developer%2C+5+years+in.;Shipping+to+Android+and+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=560&height=32&lines=Android+developer%2C+5+years+in.;Shipping+to+Android+and+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." alt="Android developer, 5 years in. Shipping to Android and iOS with Compose Multiplatform. Fixing root causes, not symptoms." />
+</picture>
 
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">   -->
+Hi, I'm JunHyung, an Android developer in Seoul.
+I care less about writing code fast and more about finding why a problem happens, then fixing it in the structure.
 
+- 📔 **[1일 1일기](https://github.com/sjunh812/diary-app)** · my diary app on [Google Play](https://play.google.com/store/apps/details?id=org.sjhstudio.diary), now rebuilt with Compose Multiplatform for Android and iOS
+- 🎯 **[ovalit](https://github.com/sjunh812/ovalit)** · a VALORANT stats app that shows what changed in your recent matches
+- ✍️ **[Compose Internals](https://sjunh812.github.io/tags/compose-internals/)** · notes on how Compose works under the hood (in Korean)
 
-<a href="https://sjunh812.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=github&logoColor=white"/></a> 
-<a href="https://sjunh812.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/sjunh812"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat"/></a> 
-<a href="mailto:sjunh812@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-
-안녕하세요! 5년차 안드로이드 개발자 서준형입니다.  
-
-AI로 코드를 쉽게 작성할 수 있는 요즘과 같은 시대일수록,  
-문제의 근본 원인을 찾아 구조적으로 해결하는 데 집중하고자 노력하고 있습니다.  
-
-최근에는 **Compose Multiplatform(CMP)** 에 관심을 가지고 있습니다.
+<p><a href="https://sjunh812.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=github&logoColor=white" alt="Blog" /></a> <a href="https://sjunh812.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=tistory&logoColor=white" alt="Tistory" /></a> <a href="https://www.linkedin.com/in/sjunh812"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn" /></a> <a href="mailto:sjunh812@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a></p>
