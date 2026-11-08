@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7F52FF,100:3DDC84&text=JunHyung%20Seo&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Android%20Developer&descSize=18&descAlignY=58&section=header" width="100%" alt="JunHyung Seo, Android Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7F52FF,100:3DDC84&section=header" width="100%" alt="" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Shipping+to+Android+and+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Shipping+to+Android+and+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." alt="Android developer, 5 years in. Shipping to Android and iOS with Compose Multiplatform. Fixing root causes, not symptoms." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Android+%2B+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Android+%2B+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." alt="Android developer, 5 years in. Android + iOS with Compose Multiplatform. Fixing root causes, not symptoms." />
 </picture>
 
 Hi, I'm JunHyung, an Android developer in Seoul.
