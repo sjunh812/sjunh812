@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7F52FF,100:3DDC84&section=header" width="100%" alt="" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&lines=Hi%2C+I%27m+JunHyung.;Android+developer+in+Seoul." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=680&height=32&lines=Hi%2C+I%27m+JunHyung.;Android+developer+in+Seoul." alt="Hi, I'm JunHyung. Android developer in Seoul." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&repeat=false&lines=Hi%2C+I%27m+JunHyung%2C+an+Android+developer+in+Seoul." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=680&height=32&repeat=false&lines=Hi%2C+I%27m+JunHyung%2C+an+Android+developer+in+Seoul." alt="Hi, I'm JunHyung, an Android developer in Seoul." />
 </picture>
 
 Now that AI writes code in seconds, I focus on what it can't decide for me: why a problem happens, and how to fix it in the structure.
