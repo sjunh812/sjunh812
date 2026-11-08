@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:7F52FF,100:3DDC84&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7F52FF,100:3DDC84&section=header" width="100%" alt="" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Android+%2B+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." />
