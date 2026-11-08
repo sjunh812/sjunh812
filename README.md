@@ -6,7 +6,7 @@
 </picture>
 
 Hi, I'm JunHyung, an Android developer in Seoul.
-I care less about writing code fast and more about finding why a problem happens, then fixing it in the structure.
+Now that AI writes code in seconds, I focus on what it can't decide for me: why a problem happens, and how to fix it in the structure.
 
 - 📔 **[1일 1일기](https://github.com/sjunh812/diary-app)** · my diary app on [Google Play](https://play.google.com/store/apps/details?id=org.sjhstudio.diary), now rebuilt with Compose Multiplatform for Android and iOS
 - 🎯 **[ovalit](https://github.com/sjunh812/ovalit)** · a VALORANT stats app that shows what changed in your recent matches
