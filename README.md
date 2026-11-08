@@ -1,14 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7F52FF,100:3DDC84&section=header" width="100%" alt="" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Android+%2B+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=680&height=32&lines=Android+developer%2C+5+years+in.;Android+%2B+iOS+with+Compose+Multiplatform.;Fixing+root+causes%2C+not+symptoms." alt="Android developer, 5 years in. Android + iOS with Compose Multiplatform. Fixing root causes, not symptoms." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=3DDC84&vCenter=true&width=680&height=32&lines=Hi%2C+I%27m+JunHyung.;Android+developer+in+Seoul." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7F52FF&vCenter=true&width=680&height=32&lines=Hi%2C+I%27m+JunHyung.;Android+developer+in+Seoul." alt="Hi, I'm JunHyung. Android developer in Seoul." />
 </picture>
 
-Hi, I'm JunHyung, an Android developer in Seoul.
 Now that AI writes code in seconds, I focus on what it can't decide for me: why a problem happens, and how to fix it in the structure.
 
-- 📔 **[1일 1일기](https://github.com/sjunh812/diary-app)** · my diary app on [Google Play](https://play.google.com/store/apps/details?id=org.sjhstudio.diary), now rebuilt with Compose Multiplatform for Android and iOS
+- 📔 **[1일 1일기 (One Day, One Diary)](https://github.com/sjunh812/diary-app)** · a diary app I built in 2021 while learning Android, now 100K+ downloads and 4.3★ on [Google Play](https://play.google.com/store/apps/details?id=org.sjhstudio.diary). I'm rebuilding it with Compose Multiplatform for iOS too, moving every user's records to a new database without touching the originals.
 - 🎯 **[ovalit](https://github.com/sjunh812/ovalit)** · a VALORANT stats app that shows what changed in your recent matches
 - ✍️ **[Compose Internals](https://sjunh812.github.io/tags/compose-internals/)** · notes on how Compose works under the hood (in Korean)
 
